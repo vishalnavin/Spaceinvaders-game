@@ -42,7 +42,6 @@ To play or modify this game, you’ll need the TIC-80 fantasy console, which can
 
 | File                       | Description                                      |
 |----------------------------|--------------------------------------------------|
-| `Spaceinvaders.lua`        | Main Lua script containing the game code.        |
 | `tic80.exe`                | TIC-80 console executable for running the game.  |
 | `Spaceinvaders.lua.exe`    | Compiled executable for easy game access.        |
 
